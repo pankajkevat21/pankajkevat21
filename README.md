@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently learning **Java, JavaScript, Docker, LLMs, AI & ML**
-- 🌱 Exploring **Cloud (AWS, Azure) & DevOps**
-- 💡 Passionate about **building real-world projects**
-- 🤝 Open to **collaboration** on interesting projects
-- 📫 Reach me at: **pankajkevat21@gmail.com**
-- ⚡ Fun fact: *I debug with `console.log` and I'm not ashamed!* 😄
+-  Currently learning **Java, JavaScript, Docker, LLMs, AI & ML**
+-  Exploring **Cloud (AWS, Azure) & DevOps**
+-  Passionate about **building real-world projects**
+-  Open to **collaboration** on interesting projects
+-  Reach me at: **pankajkevat21@gmail.com**
+-  Fun fact: *I debug with `console.log` and I'm not ashamed!* 😄
 
 ---
 
