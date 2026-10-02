@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kevat</h1>
-<h3 align="center">A Passionate Developer | Java • JavaScript • AI/ML Enthusiast 🚀</h3>
+<h3 align="center">A Backend Enginneer | Java • Python • AI/ML  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Java+%26+JavaScript;Exploring+Docker+%26+Cloud;Diving+into+AI+%26+ML;Always+learning+something+new!" alt="Typing SVG" />
